@@ -1,71 +1,72 @@
-<h1 align="center">Bautista Benestante <br>Software Dev + Cibersecurity</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bautista%20Benestante&fontAlignY=35&color=0:111827,100:0b1220&fontColor=ffffff&desc=Software%20Dev%20%2B%20Cybersecurity&descAlignY=55" />
+</p>
 
-###
+<!-- Quick intro -->
+<p align="center">
+  Construyo productos SaaS, APIs y automatizaciones. En paralelo, meto seguridad donde normalmente la gente la ignora.  
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="60" alt="git logo"  />
-</div>
+<!-- CTA buttons (clickeables) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_MAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/TU_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/TU_USER" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/TU_NUMERO" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
+## ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,tailwind,nodejs,nestjs,git&perline=8" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbenedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=bbenedev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=bbenedev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🔥 Ahora estoy trabajando en
+- **SalesWhisper**: SaaS de análisis y automatización para ventas (calls, analytics, reportes, members, integrations).
+- **Secure API Template**: base segura para APIs con auth y buenas prácticas.
+- **Mejoras UX/UI**: dashboard empresarial y performance (menos “vibe coding”, más producto).
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbenedev/bbenedev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbenedev/bbenedev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bbenedev/bbenedev/output/pacman-contribution-graph.svg">
-</picture>
+## 🚀 Proyectos destacados
+- **SalesWhisper** → https://github.com/bbenedev/SalesWhisper  
+  _Next.js + backend + DB + integraciones, orientado a producto._
+- **Secure API Template** → https://github.com/bbenedev/secure-api-template  
+  _Starter para APIs con enfoque de seguridad._
+- **(Sumá 1 o 2 más)** → poné repos que quieras “vender” como portfolio.
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbenedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbenedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📊 Stats (limpios, sin duplicados)
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=bbenedev&show_icons=true&theme=dracula&hide_border=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbenedev&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+</p>
 
-###
+<p align="center">
+  <img height="155" src="https://streak-stats.demolab.com?user=bbenedev&theme=dracula&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbenedev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bbenedev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🕹️ Contributions (pacman, pero prolijo)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bbenedev/bbenedev/output/pacman-contribution-graph-dark.svg" />
+</p>
 
-<p align="left">Hello World!!</p>
-
-###
+<!-- Nota: si querés, podés poner versión light también, pero esto ya se ve bien -->
