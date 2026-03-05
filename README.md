@@ -1,34 +1,65 @@
-<!-- Header -->
+<!-- ===== HEADER (NAVY + RED) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Bautista%20Benestante&fontAlignY=35&desc=Software%20Dev%20%2B%20Cybersecurity&descAlignY=58&color=0:7c3aed,50:0ea5e9,100:22c55e&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bautista%20Benestante&fontAlignY=35&desc=Software%20Dev%20%2B%20Cybersecurity&descAlignY=60&color=0:0B1220,65:0B1220,100:FF002B&fontColor=FFFFFF" />
 </p>
 
 <p align="center">
-  <b>Dev</b> enfocado en <b>productos web</b>, <b>automatizaciones</b> y <b>seguridad</b>.  
-  Hago que las cosas funcionen… y que no se rompan cuando alguien las mira raro.
+  <b>Construyo software</b>, automatizaciones y sistemas con foco en <b>seguridad</b>.  
+  Menos plantilla. Más producto.
+</p>
+
+<!-- ===== CONTACT (CLICKABLE CARDS) ===== -->
+<p align="center">
+  <a href="mailto:bbenedev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-bbenedev@gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF002B" />
+  </a>
+  <a href="https://instagram.com/bau.benestante" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@bau.benestante-0B1220?style=for-the-badge&logo=instagram&logoColor=white&labelColor=FF002B" />
+  </a>
+  <a href="https://wa.me/5492915120605" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-+54%209%202915120605-0B1220?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=FF002B" />
+  </a>
+  <!-- Discord: poné un invite real si querés que redirija bien -->
+  <a href="https://discord.com/login" target="_blank">
+    <img src="https://img.shields.io/badge/DISCORD-creaatinax-0B1220?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF002B" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Contacto
+## 🧾 Snapshot
 
 <p align="center">
-  <a href="mailto:bbenedev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bbenedev@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/bau.benestante">
-    <img src="https://img.shields.io/badge/Instagram-bau.benestante-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <!-- Discord: necesita ID numérico o invite para linkear bien -->
-  <img src="https://img.shields.io/badge/Discord-creaatinax-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <a href="https://wa.me/5492915120605">
-    <img src="https://img.shields.io/badge/WhatsApp-+54%209%202915120605-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bbenedev&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bbenedev&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbenedev&theme=github_dark&utcOffset=0" />
 </p>
 
 ---
 
-## 🧰 Stack
+## 🧠 About / Now
+
+- Desarrollo **apps web** y **backends** pensados para escalar.
+- Me importa la **seguridad**: auth, permisos, validaciones, logging y rate limits.
+- Obsesión sana por **UX**, performance y consistencia visual.
+
+**Ahora mismo estoy enfocado en:**
+- Arquitectura tipo SaaS (módulos, members, reporting, integraciones)
+- Hardening de APIs y automatizaciones
+- UI empresarial (menos “vibe”, más claridad)
+
+---
+
+## 🧰 Tech Stack (ordenado, no desfile de logos)
+
+| Área | Tecnologías |
+|---|---|
+| **Backend** | Node.js, NestJS, Python |
+| **Frontend** | Next.js, TypeScript, Tailwind, HTML, CSS |
+| **Tools** | Git |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,html,css,tailwind,nextjs,nodejs,nestjs,git&perline=10" />
@@ -36,31 +67,30 @@
 
 ---
 
-## 🔭 Ahora mismo
-
-- Construyendo **sistemas SaaS** (arquitectura, módulos, integraciones).
-- Mejorando **UX/UI** con enfoque empresarial (menos “vibe”, más producto).
-- Endureciendo **APIs** (auth, permisos, validaciones, rate limiting, logging).
-
----
-
-## 📊 Stats (con color y legibles)
+## 📊 Activity Graph (con tus colores)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bbenedev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbenedev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=bbenedev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bbenedev&bg_color=0B1220&color=FFFFFF&line=FF002B&point=FFFFFF&area=true&area_color=FF002B&hide_border=true" />
 </p>
 
 ---
 
-## 🧩 Contributions
+## 📈 Stats (limpios, sin texto fantasma)
 
 <p align="center">
-  <!-- Pacman con soporte dark/light para que no “desaparezca” -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bbenedev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbenedev&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=bbenedev&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🕹️ Pacman Contributions (sí o sí)
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bbenedev/bbenedev/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bbenedev/bbenedev/output/pacman-contribution-graph.svg">
@@ -69,9 +99,9 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7c3aed,50:0ea5e9,100:22c55e" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FF002B,100:0B1220" />
 </p>
 
 <p align="center">
-  <i>Construido con intención, no con 14 widgets repetidos.</i>
+  <i>Rojo para empuje. Navy para control.</i>
 </p>
