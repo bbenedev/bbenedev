@@ -1,72 +1,78 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bautista%20Benestante&fontAlignY=35&color=0:111827,100:0b1220&fontColor=ffffff&desc=Software%20Dev%20%2B%20Cybersecurity&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,100:0b1220&text=Bautista%20Benestante&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Cybersecurity&descAlignY=60" />
 </p>
 
-<!-- Quick intro -->
 <p align="center">
-  Construyo productos SaaS, APIs y automatizaciones. En paralelo, meto seguridad donde normalmente la gente la ignora.  
-</p>
-
-<!-- CTA buttons (clickeables) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0b5fff?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:TU_MAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/TU_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/TU_USER" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/TU_NUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  Building software, automations and secure systems.
 </p>
 
 ---
 
-## ⚙️ Tech Stack
+# Connect
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,nextjs,tailwind,nodejs,nestjs,git&perline=8" />
+
+<a href="mailto:bbenedev@gmail.com">
+<img src="https://img.shields.io/badge/email-bbenedev@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/bau.benestante">
+<img src="https://img.shields.io/badge/Instagram-bau.benestante-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/creaatinax">
+<img src="https://img.shields.io/badge/Discord-creaatinax-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/5492915120605">
+<img src="https://img.shields.io/badge/WhatsApp-2915120605-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🔥 Ahora estoy trabajando en
-- **SalesWhisper**: SaaS de análisis y automatización para ventas (calls, analytics, reportes, members, integrations).
-- **Secure API Template**: base segura para APIs con auth y buenas prácticas.
-- **Mejoras UX/UI**: dashboard empresarial y performance (menos “vibe coding”, más producto).
-
----
-
-## 🚀 Proyectos destacados
-- **SalesWhisper** → https://github.com/bbenedev/SalesWhisper  
-  _Next.js + backend + DB + integraciones, orientado a producto._
-- **Secure API Template** → https://github.com/bbenedev/secure-api-template  
-  _Starter para APIs con enfoque de seguridad._
-- **(Sumá 1 o 2 más)** → poné repos que quieras “vender” como portfolio.
-
----
-
-## 📊 Stats (limpios, sin duplicados)
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=bbenedev&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbenedev&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
-</p>
+# Tech Stack
 
 <p align="center">
-  <img height="155" src="https://streak-stats.demolab.com?user=bbenedev&theme=dracula&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,nextjs,nodejs,nestjs,tailwind,git&perline=10" />
 </p>
 
 ---
 
-## 🕹️ Contributions (pacman, pero prolijo)
+# Now Building
+
+Currently focused on:
+
+• SaaS architecture and scalable backend systems  
+• Secure API development  
+• automation tools and developer utilities  
+• improving UX and performance in web platforms  
+
+---
+
+# Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bbenedev/bbenedev/output/pacman-contribution-graph-dark.svg" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=bbenedev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbenedev&layout=compact&theme=transparent&hide_border=true" />
+
 </p>
 
-<!-- Nota: si querés, podés poner versión light también, pero esto ya se ve bien -->
+---
+
+# Contribution Map
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/bbenedev/bbenedev/output/pacman-contribution-graph-dark.svg" />
+
+</p>
+
+---
+
+<p align="center">
+“Code should solve problems, not create new ones.”
+</p>
