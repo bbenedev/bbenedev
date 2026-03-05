@@ -7,35 +7,27 @@
 
 # Engineering Profile
 
-Software engineer focused on building **secure, scalable and maintainable software systems**.
+Software engineer focused on designing **secure, maintainable and scalable software systems**.
 
-My work sits at the intersection of **backend architecture, frontend engineering and application security**, where system reliability, usability and long-term maintainability must coexist.
+My work combines **backend architecture, frontend engineering and application security**, ensuring that systems remain understandable, resilient and maintainable over time.
 
-I approach software development from a **systems thinking perspective**, treating architecture, performance, developer experience and security as interconnected engineering problems.
+Rather than treating security as an afterthought, I prefer embedding **security constraints directly into system design**, allowing applications to behave predictably even under adverse conditions.
 
 ---
 
-# Core Competencies
+# Core Engineering Areas
 
-**Software Architecture**
-- modular application design
-- domain-driven code organization
-- scalable service structures
+### Software Architecture
+Designing modular systems with clear boundaries and predictable dependencies.
 
-**Frontend Engineering**
-- structured UI architecture
-- component-driven interfaces
-- performance-conscious rendering
+### Frontend Systems
+Building structured UI layers that balance usability, performance and maintainability.
 
-**Application Security**
-- authentication lifecycle design
-- permission models (RBAC)
-- API abuse prevention
+### Application Security
+Designing authentication flows, permission models and hardened APIs.
 
-**Developer Experience**
-- maintainable repositories
-- clean development workflows
-- tooling and automation
+### Developer Experience
+Maintaining repositories that remain understandable and productive as they scale.
 
 ---
 
@@ -68,12 +60,14 @@ I approach software development from a **systems thinking perspective**, treatin
 <table>
 
 <tr>
-<th>Category</th>
-<th>Technologies</th>
+<th>Backend</th>
+<th>Frontend</th>
+<th>Databases</th>
+<th>Tools</th>
 </tr>
 
 <tr>
-<td>Backend</td>
+
 <td>
 
 <img src="https://skillicons.dev/icons?i=nodejs"/>
@@ -81,10 +75,7 @@ I approach software development from a **systems thinking perspective**, treatin
 <img src="https://skillicons.dev/icons?i=python"/>
 
 </td>
-</tr>
 
-<tr>
-<td>Frontend</td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=ts"/>
@@ -95,35 +86,38 @@ I approach software development from a **systems thinking perspective**, treatin
 <img src="https://skillicons.dev/icons?i=css"/>
 
 </td>
-</tr>
 
-<tr>
-<td>Tools</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=supabase"/>
+
+</td>
+
 <td>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
 </td>
+
 </tr>
 
 </table>
 
 ---
 
-# Security Engineering Focus
+# Security Engineering
 
-Security is treated as an **architectural property of the system**, not as a post-development feature.
+Security is treated as an **architectural property of the system**, not a late-stage addition.
 
-Key areas of focus include:
+Typical areas of focus include:
 
-• authentication lifecycle management  
-• permission and authorization models  
-• API request validation and abuse prevention  
-• secure handling of user input and application data  
-• monitoring, logging and incident visibility  
-
-This approach ensures that systems remain **predictable and resilient even under hostile conditions**.
+• authentication lifecycle design  
+• role-based permission models  
+• request validation and API hardening  
+• secure handling of application data  
+• logging and monitoring for incident visibility  
 
 ---
 
@@ -139,18 +133,18 @@ This approach ensures that systems remain **predictable and resilient even under
 
 # Engineering Projects
 
-The following projects aim to explore **practical engineering challenges** related to backend architecture, developer tooling and application security.
+These repositories focus on **practical engineering problems** related to backend architecture, developer tooling and application security.
 
 ---
 
 ### SecureAuth Service
 
-Authentication microservice implementing:
+Authentication service implementing:
 
 • JWT authentication  
 • refresh token rotation  
 • session lifecycle management  
-• role-based authorization  
+• role-based authorization
 
 Tech: NestJS / Node.js
 
@@ -158,14 +152,12 @@ Tech: NestJS / Node.js
 
 ### API Threat Simulator
 
-Testing tool that simulates malicious traffic patterns against APIs.
+Tool that simulates malicious API traffic patterns:
 
-Includes:
-
-• brute force authentication attempts  
+• brute-force authentication attempts  
 • token replay simulations  
-• rate-limit bypass testing  
-• malformed request generation  
+• malformed request injection  
+• rate-limit stress testing
 
 Tech: Python
 
@@ -173,12 +165,12 @@ Tech: Python
 
 ### Secure Backend Boilerplate
 
-Production-ready backend template containing:
+Production-ready backend template including:
 
 • authentication infrastructure  
-• permission management  
-• structured validation layer  
-• request logging  
+• validation layer  
+• logging system  
+• permission management
 
 Tech: NestJS
 
@@ -186,13 +178,13 @@ Tech: NestJS
 
 ### Web Security Playground
 
-Educational environment demonstrating common web vulnerabilities and their mitigations.
+Interactive environment demonstrating common web vulnerabilities and mitigations.
 
 Includes:
 
-• XSS attack vectors  
+• XSS demonstrations  
 • CSRF attack scenarios  
-• secure input handling  
+• secure input handling
 
 Tech: Next.js
 
@@ -200,13 +192,13 @@ Tech: Next.js
 
 ### Observability Toolkit
 
-Lightweight system monitoring toolkit designed for backend applications.
+Minimal toolkit for monitoring backend applications.
 
 Includes:
 
 • structured logging  
 • request tracing  
-• error aggregation  
+• error aggregation
 
 Tech: Node.js
 
@@ -214,13 +206,13 @@ Tech: Node.js
 
 ### Abuse Protection Middleware
 
-Reusable middleware for protecting APIs from abuse patterns.
+Middleware designed to protect APIs against abuse patterns.
 
 Includes:
 
 • request rate limiting  
-• IP throttling  
 • brute force protection  
+• IP throttling
 
 Tech: Node.js
 
@@ -228,13 +220,13 @@ Tech: Node.js
 
 ### Dev Security CLI
 
-Developer tool that scans projects for security misconfigurations.
+CLI tool designed to detect insecure configurations in development environments.
 
 Checks include:
 
-• missing environment variables  
-• unsafe configuration patterns  
-• dependency risks  
+• unsafe environment variables  
+• configuration issues  
+• dependency risks
 
 Tech: Python
 
