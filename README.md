@@ -1,24 +1,25 @@
-<!-- HERO FULL WIDTH -->
+<!-- HERO -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Bautista%20Benestante&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20•%20UX/UI%20•%20Cybersecurity&descAlignY=62&color=0:081018,50:081018,100:FF0033&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Bautista%20Benestante&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20•%20UX/UI%20•%20Cybersecurity&descAlignY=62&color=0:081018,60:081018,100:FF0033&fontColor=FFFFFF"/>
 </p>
 
 ---
 
 # About
 
-Software engineer focused on building **reliable, secure and scalable software systems**.  
-My work combines **backend architecture, frontend engineering and product-driven UX/UI design**, ensuring that systems remain understandable, maintainable and secure over time.
+Software engineer focused on building **secure, maintainable and scalable systems**.
 
-I approach development from a **systems perspective**, where performance, security, developer experience and usability are treated as interconnected problems rather than isolated concerns.
+My work spans across **backend architecture, frontend engineering and security-oriented application design**, where usability, performance and system integrity must coexist.
 
-Areas I typically work on include:
+Rather than treating security as a post-development concern, I prefer designing software where **security constraints are embedded in the architecture itself**.
 
-- **Application architecture and modular system design**
-- **Frontend systems with clear UI state management**
-- **Secure authentication and authorization flows**
-- **Developer-friendly tooling and maintainable codebases**
-- **UX/UI decisions informed by engineering constraints**
+Core areas I work with:
+
+• application architecture and modular system design  
+• frontend systems and UX-driven interfaces  
+• authentication and authorization models  
+• secure API design and input validation  
+• maintainable developer tooling and structured codebases  
 
 ---
 
@@ -35,7 +36,7 @@ Areas I typically work on include:
 </a>
 
 <a href="https://wa.me/5492915120605">
-<img src="https://skillicons.dev/icons?i=whatsapp"/>
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="48"/>
 </a>
 
 <a href="https://discord.com/login">
@@ -51,14 +52,23 @@ Areas I typically work on include:
 <table>
 
 <tr>
-<th>Frontend</th>
-<th>Backend</th>
-<th>Security</th>
-<th>Tools</th>
+<th>Category</th>
+<th>Technologies</th>
 </tr>
 
 <tr>
+<td>Backend</td>
+<td>
 
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=nestjs"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</td>
+</tr>
+
+<tr>
+<td>Frontend</td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=ts"/>
@@ -69,32 +79,16 @@ Areas I typically work on include:
 <img src="https://skillicons.dev/icons?i=css"/>
 
 </td>
+</tr>
 
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=nestjs"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</td>
-
-<td>
-
-secure authentication  
-permission models  
-API hardening  
-request validation  
-logging and monitoring  
-
-</td>
-
+<tr>
+<td>Tools</td>
 <td>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=vscode"/>
 
 </td>
-
 </tr>
 
 </table>
@@ -103,17 +97,15 @@ logging and monitoring
 
 # Security Focus
 
-Modern applications must be built assuming that **inputs are hostile and systems will fail**.
+Secure software requires thinking about **failure conditions, hostile inputs and abuse scenarios** from the beginning.
 
-My security work generally focuses on:
+Areas I usually focus on:
 
-- **Authentication and session lifecycle management**
-- **Authorization models (RBAC / permission layers)**
-- **API validation and abuse prevention**
-- **Secure data handling practices**
-- **Application-level threat awareness**
-
-Security is treated as part of **system design**, not an afterthought.
+• authentication and session lifecycle  
+• authorization models (RBAC / permissions)  
+• request validation and API hardening  
+• application-level threat awareness  
+• logging and observability  
 
 ---
 
@@ -121,21 +113,107 @@ Security is treated as part of **system design**, not an afterthought.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbenedev&bg_color=081018&color=FFFFFF&line=FF0033&point=FFFFFF&area=true&area_color=FF0033&hide_border=true&height=320"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbenedev&bg_color=081018&color=FFFFFF&line=FF0033&point=FFFFFF&area=true&area_color=FF0033&hide_border=true&height=330"/>
 
 </p>
 
 ---
 
-# GitHub Stats
+# Projects
 
-<p align="center">
+Below are some projects I plan to build around **software engineering and security practices**.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bbenedev&show_icons=true&theme=github_dark&hide_border=true"/>
+These repositories will focus on solving real engineering problems rather than tutorial-style examples.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbenedev&layout=compact&theme=github_dark&hide_border=true"/>
+### SecureAuth API
+A secure authentication service implementing:
 
-</p>
+• JWT authentication  
+• refresh token rotation  
+• session management  
+• RBAC permission model  
+
+Tech: Node.js, NestJS
+
+---
+
+### API Threat Simulator
+
+Tool designed to simulate common API attack patterns:
+
+• brute-force login attempts  
+• token replay  
+• rate-limit testing  
+• malformed request injection  
+
+Useful for testing backend resilience.
+
+Tech: Python
+
+---
+
+### Secure API Boilerplate
+
+Production-ready backend template including:
+
+• authentication  
+• role-based permissions  
+• validation layer  
+• logging and monitoring  
+
+Tech: Node.js / NestJS
+
+---
+
+### Web Security Playground
+
+Interactive project demonstrating common web vulnerabilities and their mitigations.
+
+Includes:
+
+• XSS examples  
+• CSRF demonstrations  
+• secure input handling  
+
+Tech: Next.js
+
+---
+
+### System Observability Toolkit
+
+Minimal toolkit for monitoring application behavior.
+
+Includes:
+
+• structured logging  
+• request tracing  
+• error correlation  
+
+Tech: Node.js
+
+---
+
+### Rate Limit & Abuse Protection Middleware
+
+Reusable middleware focused on:
+
+• request throttling  
+• brute force prevention  
+• IP-based protection  
+
+Tech: Node.js
+
+---
+
+### Developer Security Checklist CLI
+
+CLI tool that scans projects for:
+
+• missing environment variables  
+• insecure configurations  
+• common security mistakes  
+
+Tech: Python
 
 ---
 
