@@ -1,109 +1,146 @@
-<!-- HERO -->
+<!-- HERO FULL WIDTH -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Bautista%20Benestante&fontAlignY=36&desc=Backend%20Engineering%20%E2%80%A2%20Cybersecurity&descAlignY=58&color=0:0B1220,60:0D1B2A,100:00BFFF&fontColor=FFFFFF&descColor=00BFFF&fontSize=42&descSize=18" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Backend+engineer+%7C+Security-minded+builder;Systems+that+hold+under+real+traffic+%26+hostile+inputs" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Bautista%20Benestante&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20•%20UX/UI%20•%20Cybersecurity&descAlignY=62&color=0:081018,50:081018,100:FF0033&fontColor=FFFFFF"/>
 </p>
 
 ---
 
-## ⚡ About
-```
-> I don't build features. I build systems.
-```
+# About
 
-Backend & web engineer with a **security-first mindset**. I design for correctness, observability, and resilience — not just for greenfield demos. Interested in the intersection of **distributed systems**, **hardened APIs**, and **threat-aware architecture**.
+Software engineer focused on building **reliable, secure and scalable software systems**.  
+My work combines **backend architecture, frontend engineering and product-driven UX/UI design**, ensuring that systems remain understandable, maintainable and secure over time.
 
-- 🔐 AuthN/AuthZ: session hardening, RBAC, least-privilege, audit trails
-- 🛡️ API security: input validation, rate limiting, abuse prevention, safe error surfaces  
-- 📐 System design: modular domains, predictable dependency direction, scalable without spaghetti
-- 📊 Observability: structured logs, request correlation, actionable metrics, intentional failure modes
-- ⚙️ Performance: query discipline, caching strategy, pagination, cold-start awareness
+I approach development from a **systems perspective**, where performance, security, developer experience and usability are treated as interconnected problems rather than isolated concerns.
 
-> *Engineering is the art of making the right thing easy and the wrong thing hard.*
+Areas I typically work on include:
+
+- **Application architecture and modular system design**
+- **Frontend systems with clear UI state management**
+- **Secure authentication and authorization flows**
+- **Developer-friendly tooling and maintainable codebases**
+- **UX/UI decisions informed by engineering constraints**
 
 ---
 
-## 🔗 Contact
+# Contact
 
 <p align="center">
-  <a href="mailto:bbenedev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bbenedev@gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=00BFFF&labelColor=0D1B2A" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/bau.benestante">
-    <img src="https://img.shields.io/badge/Instagram-bau.benestante-0B1220?style=for-the-badge&logo=instagram&logoColor=00BFFF&labelColor=0D1B2A" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/5492915120605">
-    <img src="https://img.shields.io/badge/WhatsApp-%2B54%209%202915120605-0B1220?style=for-the-badge&logo=whatsapp&logoColor=00BFFF&labelColor=0D1B2A" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/creaatinax">
-    <img src="https://img.shields.io/badge/Discord-creaatinax-0B1220?style=for-the-badge&logo=discord&logoColor=00BFFF&labelColor=0D1B2A" />
-  </a>
+
+<a href="mailto:bbenedev@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://instagram.com/bau.benestante">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://wa.me/5492915120605">
+<img src="https://skillicons.dev/icons?i=whatsapp"/>
+</a>
+
+<a href="https://discord.com/login">
+<img src="https://skillicons.dev/icons?i=discord"/>
+</a>
+
 </p>
 
 ---
 
-## 🧰 Tech Stack
+# Technology Stack
 
-<table align="center">
-  <tr>
-    <th align="center">Frontend</th>
-    <th align="center">Backend</th>
-    <th align="center">Databases</th>
-    <th align="center">Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts,js,nextjs,tailwind,html,css&perline=6&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python&perline=3&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,supabase&perline=2&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,linux,docker&perline=3&theme=dark" />
-    </td>
-  </tr>
+<table>
+
+<tr>
+<th>Frontend</th>
+<th>Backend</th>
+<th>Security</th>
+<th>Tools</th>
+</tr>
+
+<tr>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=nestjs"/>
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</td>
+
+<td>
+
+secure authentication  
+permission models  
+API hardening  
+request validation  
+logging and monitoring  
+
+</td>
+
+<td>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## 🛡️ Security Focus
-```
-┌─────────────────────────────────────────────────────────────┐
-│  OWASP Top 10  │  AuthN/AuthZ Hardening  │  API Threat Model│
-│  Input Validation  │  Rate Limiting  │  Secure Defaults     │
-│  Session Management  │  Least Privilege  │  Audit Logging   │
-└─────────────────────────────────────────────────────────────┘
-```
+# Security Focus
 
-Security isn't a checklist — it's a design constraint applied from day 0. I consider threat surfaces during architecture, not post-incident.
+Modern applications must be built assuming that **inputs are hostile and systems will fail**.
+
+My security work generally focuses on:
+
+- **Authentication and session lifecycle management**
+- **Authorization models (RBAC / permission layers)**
+- **API validation and abuse prevention**
+- **Secure data handling practices**
+- **Application-level threat awareness**
+
+Security is treated as part of **system design**, not an afterthought.
 
 ---
 
-## 📈 GitHub Activity
+# GitHub Activity
 
 <p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=bbenedev&bg_color=0B1220&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=00BFFF&hide_border=true&height=190&radius=10" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbenedev&bg_color=081018&color=FFFFFF&line=FF0033&point=FFFFFF&area=true&area_color=FF0033&hide_border=true&height=320"/>
+
 </p>
 
 ---
 
-## 📊 Stats
+# GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bbenedev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&ring_color=00BFFF" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbenedev&layout=compact&langs_count=8&hide_border=true&bg_color=0B1220&title_color=00BFFF&text_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=bbenedev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbenedev&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:00BFFF,100:0B1220&fontColor=FFFFFF" />
+
+Engineering is about making complex systems understandable.
+
 </p>
