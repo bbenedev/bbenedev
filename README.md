@@ -1,25 +1,41 @@
 <!-- HERO -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Bautista%20Benestante&fontAlignY=38&desc=Software%20Engineer%20•%20Frontend%20•%20UX/UI%20•%20Cybersecurity&descAlignY=62&color=0:081018,60:081018,100:FF0033&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Bautista%20Benestante&fontAlignY=38&desc=Software%20Engineering%20•%20Frontend%20•%20UX/UI%20•%20Cybersecurity&descAlignY=62&color=0:081018,60:081018,100:FF0033&fontColor=FFFFFF"/>
 </p>
 
 ---
 
-# About
+# Engineering Profile
 
-Software engineer focused on building **secure, maintainable and scalable systems**.
+Software engineer focused on building **secure, scalable and maintainable software systems**.
 
-My work spans across **backend architecture, frontend engineering and security-oriented application design**, where usability, performance and system integrity must coexist.
+My work sits at the intersection of **backend architecture, frontend engineering and application security**, where system reliability, usability and long-term maintainability must coexist.
 
-Rather than treating security as a post-development concern, I prefer designing software where **security constraints are embedded in the architecture itself**.
+I approach software development from a **systems thinking perspective**, treating architecture, performance, developer experience and security as interconnected engineering problems.
 
-Core areas I work with:
+---
 
-• application architecture and modular system design  
-• frontend systems and UX-driven interfaces  
-• authentication and authorization models  
-• secure API design and input validation  
-• maintainable developer tooling and structured codebases  
+# Core Competencies
+
+**Software Architecture**
+- modular application design
+- domain-driven code organization
+- scalable service structures
+
+**Frontend Engineering**
+- structured UI architecture
+- component-driven interfaces
+- performance-conscious rendering
+
+**Application Security**
+- authentication lifecycle design
+- permission models (RBAC)
+- API abuse prevention
+
+**Developer Experience**
+- maintainable repositories
+- clean development workflows
+- tooling and automation
 
 ---
 
@@ -95,123 +111,130 @@ Core areas I work with:
 
 ---
 
-# Security Focus
+# Security Engineering Focus
 
-Secure software requires thinking about **failure conditions, hostile inputs and abuse scenarios** from the beginning.
+Security is treated as an **architectural property of the system**, not as a post-development feature.
 
-Areas I usually focus on:
+Key areas of focus include:
 
-• authentication and session lifecycle  
-• authorization models (RBAC / permissions)  
-• request validation and API hardening  
-• application-level threat awareness  
-• logging and observability  
+• authentication lifecycle management  
+• permission and authorization models  
+• API request validation and abuse prevention  
+• secure handling of user input and application data  
+• monitoring, logging and incident visibility  
+
+This approach ensures that systems remain **predictable and resilient even under hostile conditions**.
 
 ---
 
-# GitHub Activity
+# Development Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbenedev&bg_color=081018&color=FFFFFF&line=FF0033&point=FFFFFF&area=true&area_color=FF0033&hide_border=true&height=330"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bbenedev&bg_color=081018&color=FFFFFF&line=FF0033&point=FFFFFF&area=true&area_color=FF0033&hide_border=true&height=340"/>
 
 </p>
 
 ---
 
-# Projects
+# Engineering Projects
 
-Below are some projects I plan to build around **software engineering and security practices**.
+The following projects aim to explore **practical engineering challenges** related to backend architecture, developer tooling and application security.
 
-These repositories will focus on solving real engineering problems rather than tutorial-style examples.
+---
 
-### SecureAuth API
-A secure authentication service implementing:
+### SecureAuth Service
+
+Authentication microservice implementing:
 
 • JWT authentication  
 • refresh token rotation  
-• session management  
-• RBAC permission model  
+• session lifecycle management  
+• role-based authorization  
 
-Tech: Node.js, NestJS
+Tech: NestJS / Node.js
 
 ---
 
 ### API Threat Simulator
 
-Tool designed to simulate common API attack patterns:
+Testing tool that simulates malicious traffic patterns against APIs.
 
-• brute-force login attempts  
-• token replay  
-• rate-limit testing  
-• malformed request injection  
+Includes:
 
-Useful for testing backend resilience.
+• brute force authentication attempts  
+• token replay simulations  
+• rate-limit bypass testing  
+• malformed request generation  
 
 Tech: Python
 
 ---
 
-### Secure API Boilerplate
+### Secure Backend Boilerplate
 
-Production-ready backend template including:
+Production-ready backend template containing:
 
-• authentication  
-• role-based permissions  
-• validation layer  
-• logging and monitoring  
+• authentication infrastructure  
+• permission management  
+• structured validation layer  
+• request logging  
 
-Tech: Node.js / NestJS
+Tech: NestJS
 
 ---
 
 ### Web Security Playground
 
-Interactive project demonstrating common web vulnerabilities and their mitigations.
+Educational environment demonstrating common web vulnerabilities and their mitigations.
 
 Includes:
 
-• XSS examples  
-• CSRF demonstrations  
+• XSS attack vectors  
+• CSRF attack scenarios  
 • secure input handling  
 
 Tech: Next.js
 
 ---
 
-### System Observability Toolkit
+### Observability Toolkit
 
-Minimal toolkit for monitoring application behavior.
+Lightweight system monitoring toolkit designed for backend applications.
 
 Includes:
 
 • structured logging  
 • request tracing  
-• error correlation  
+• error aggregation  
 
 Tech: Node.js
 
 ---
 
-### Rate Limit & Abuse Protection Middleware
+### Abuse Protection Middleware
 
-Reusable middleware focused on:
+Reusable middleware for protecting APIs from abuse patterns.
 
-• request throttling  
-• brute force prevention  
-• IP-based protection  
+Includes:
+
+• request rate limiting  
+• IP throttling  
+• brute force protection  
 
 Tech: Node.js
 
 ---
 
-### Developer Security Checklist CLI
+### Dev Security CLI
 
-CLI tool that scans projects for:
+Developer tool that scans projects for security misconfigurations.
+
+Checks include:
 
 • missing environment variables  
-• insecure configurations  
-• common security mistakes  
+• unsafe configuration patterns  
+• dependency risks  
 
 Tech: Python
 
@@ -219,6 +242,6 @@ Tech: Python
 
 <p align="center">
 
-Engineering is about making complex systems understandable.
+Engineering is the discipline of making complex systems understandable.
 
 </p>
