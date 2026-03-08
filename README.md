@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Bautista%20Benestante&fontAlignY=38&desc=Software%20Engineering%20•%20UX/UI%20•%20Cybersecurity&descAlignY=62&color=0:081018,60:081018,100:FF0033&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Bautista%20Benestante&fontAlignY=38&desc=Software%20Engineering%20•%20Cybersecurity&descAlignY=62&color=0:081018,60:081018,100:FF0033&fontColor=FFFFFF"/>
 </p>
 
 ---
