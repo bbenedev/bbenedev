@@ -48,16 +48,16 @@ prot list -r bbenedev/protocol-sandbox
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/bbenedev/dolar-bot/main/assets/logo-light.svg#gh-light-mode-only" width="44" align="left" alt="">
-<img src="https://raw.githubusercontent.com/bbenedev/dolar-bot/main/assets/logo-dark.svg#gh-dark-mode-only" width="44" align="left" alt="">
+<img src="https://raw.githubusercontent.com/bbenedev/dolar-che/main/assets/logo-light.svg#gh-light-mode-only" width="44" align="left" alt="">
+<img src="https://raw.githubusercontent.com/bbenedev/dolar-che/main/assets/logo-dark.svg#gh-dark-mode-only" width="44" align="left" alt="">
 
-**[dolar-bot](https://github.com/bbenedev/dolar-bot)**<br>
-<sub>Python · discord.py</sub>
+**[DOLAR CHE](https://github.com/bbenedev/dolar-che)**<br>
+<sub>Python · discord.py · Pillow</sub>
 
-Discord bot with the Argentine dollar rates, a converter that uses the right side of the spread,
-and private price alerts that survive restarts.
+The Argentine dollar inside Discord, in Argentine Spanish: every rate with the time it was
+quoted, card purchases, other currencies, history charts, private alerts and a daily summary.
 
-[![ci](https://github.com/bbenedev/dolar-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/bbenedev/dolar-bot/actions/workflows/ci.yml) ![tests](https://img.shields.io/badge/tests-22-0b7a56?style=flat-square)
+[![ci](https://github.com/bbenedev/dolar-che/actions/workflows/ci.yml/badge.svg)](https://github.com/bbenedev/dolar-che/actions/workflows/ci.yml) ![tests](https://img.shields.io/badge/tests-44-0b7a56?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
@@ -160,8 +160,8 @@ trabajo remoto en **QA, soporte técnico o desarrollo junior**.
 
 - **[PRotocol](https://github.com/bbenedev/PRotocol)**: herramienta de consola que explica por qué
   un pull request no se puede fusionar y quién tiene que actuar.
-- **[dolar-bot](https://github.com/bbenedev/dolar-bot)**: bot de Discord con las cotizaciones del
-  dólar, un conversor y alertas privadas.
+- **[DOLAR CHE](https://github.com/bbenedev/dolar-che)**: el dólar adentro de Discord, con la hora de
+  cada cotización, gráficos, alertas y un resumen diario.
 - **[jobtrack](https://github.com/bbenedev/jobtrack)**: seguimiento de postulaciones desde la consola.
 - **[emumon](https://github.com/bbenedev/emumon)**: vigila la memoria de los emuladores Android.
 - **[xfce-estilo-mac](https://github.com/bbenedev/xfce-estilo-mac)**: XFCE con estilo macOS en un
