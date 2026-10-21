@@ -52,42 +52,14 @@ prot list -r bbenedev/protocol-sandbox
 <img src="https://raw.githubusercontent.com/bbenedev/dolar-che/main/assets/logo-dark.svg#gh-dark-mode-only" width="44" align="left" alt="">
 
 **[DOLAR CHE](https://github.com/bbenedev/dolar-che)**<br>
-<sub>Python · discord.py · Pillow</sub>
+<sub>Python · discord.py · Pillow · Docker</sub>
 
-The Argentine dollar inside Discord, in Argentine Spanish: every rate with the time it was
-quoted, card purchases, other currencies, history charts, private alerts and a daily summary.
+The Argentine dollar inside Discord: every rate with its daily change and quote time, history
+charts, private alerts and a daily summary, all with buttons. Runs in Docker with about 60 MB.
 
-[![ci](https://github.com/bbenedev/dolar-che/actions/workflows/ci.yml/badge.svg)](https://github.com/bbenedev/dolar-che/actions/workflows/ci.yml) ![tests](https://img.shields.io/badge/tests-44-0b7a56?style=flat-square)
+[![ci](https://github.com/bbenedev/dolar-che/actions/workflows/ci.yml/badge.svg)](https://github.com/bbenedev/dolar-che/actions/workflows/ci.yml) ![tests](https://img.shields.io/badge/tests-62-0b7a56?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/bbenedev/jobtrack/main/assets/logo-light.svg#gh-light-mode-only" width="44" align="left" alt="">
-<img src="https://raw.githubusercontent.com/bbenedev/jobtrack/main/assets/logo-dark.svg#gh-dark-mode-only" width="44" align="left" alt="">
-
-**[jobtrack](https://github.com/bbenedev/jobtrack)**<br>
-<sub>Python · SQLite</sub>
-
-Command line tracker for job applications: who has not answered in a week, and which job
-boards actually get replies. Built for my own search.
-
-[![ci](https://github.com/bbenedev/jobtrack/actions/workflows/ci.yml/badge.svg)](https://github.com/bbenedev/jobtrack/actions/workflows/ci.yml) ![tests](https://img.shields.io/badge/tests-19-0b7a56?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://raw.githubusercontent.com/bbenedev/emumon/main/assets/logo-light.svg#gh-light-mode-only" width="44" align="left" alt="">
-<img src="https://raw.githubusercontent.com/bbenedev/emumon/main/assets/logo-dark.svg#gh-dark-mode-only" width="44" align="left" alt="">
-
-**[emumon](https://github.com/bbenedev/emumon)**<br>
-<sub>Python · psutil</sub>
-
-Watches the memory of Android emulators and logs an alert over a limit. Born from a real
-17 GB overnight leak.
-
-[![ci](https://github.com/bbenedev/emumon/actions/workflows/ci.yml/badge.svg)](https://github.com/bbenedev/emumon/actions/workflows/ci.yml) ![tests](https://img.shields.io/badge/tests-10-0b7a56?style=flat-square)
+<a href="https://github.com/bbenedev/dolar-che"><img src="https://raw.githubusercontent.com/bbenedev/dolar-che/main/assets/demo.gif" width="100%" alt="DOLAR CHE in Discord"></a>
 
 </td>
 <td width="50%" valign="top">
@@ -99,6 +71,15 @@ One command turns an XFCE Linux desktop into a macOS look: translucent top bar, 
 Spotlight, Launchpad, on Kali, Debian, Ubuntu, Arch, Fedora and more.
 
 <a href="https://github.com/bbenedev/xfce-estilo-mac"><img src="https://raw.githubusercontent.com/bbenedev/xfce-estilo-mac/main/capturas/escritorio.jpg" width="100%" alt="XFCE desktop with a macOS look"></a>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/bbenedev/emumon/main/assets/logo-light.svg#gh-light-mode-only" width="36" align="left" alt="">
+<img src="https://raw.githubusercontent.com/bbenedev/emumon/main/assets/logo-dark.svg#gh-dark-mode-only" width="36" align="left" alt="">
+
+**[emumon](https://github.com/bbenedev/emumon)** · <sub>Python · psutil</sub><br>
+Logs an alert when an Android emulator goes over a memory limit. Born from a real 17 GB
+overnight leak.
 
 </td>
 </tr>
@@ -162,11 +143,10 @@ trabajo remoto en **QA, soporte técnico o desarrollo junior**.
   un pull request no se puede fusionar y quién tiene que actuar.
 - **[DOLAR CHE](https://github.com/bbenedev/dolar-che)**: el dólar adentro de Discord, con la hora de
   cada cotización, gráficos, alertas y un resumen diario.
-- **[jobtrack](https://github.com/bbenedev/jobtrack)**: seguimiento de postulaciones desde la consola.
 - **[emumon](https://github.com/bbenedev/emumon)**: vigila la memoria de los emuladores Android.
 - **[xfce-estilo-mac](https://github.com/bbenedev/xfce-estilo-mac)**: XFCE con estilo macOS en un
   solo comando.
 
-Los cuatro primeros tienen pruebas automáticas y README en inglés y en castellano.
+Los de código tienen pruebas automáticas y README en inglés y en castellano.
 
 </details>
