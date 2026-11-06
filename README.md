@@ -5,7 +5,7 @@
 **Junior developer · Python & TypeScript · I build tools that say exactly what's wrong**
 
 ![Open to remote work](https://img.shields.io/badge/open%20to-remote%20work-0b7a56?style=flat-square)
-![Location](https://img.shields.io/badge/Puerto%20Madryn%2C%20Argentina-UTC%E2%88%923-555?style=flat-square)
+
 ![English](https://img.shields.io/badge/English-C1-555?style=flat-square)
 
 [LinkedIn](https://www.linkedin.com/in/bautista-benestante) · [bautistabenestante@gmail.com](mailto:bautistabenestante@gmail.com)
